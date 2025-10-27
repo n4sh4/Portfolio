@@ -127,7 +127,7 @@ function commander(cmd) {
       showEnhancedHistory();
       break;
     case "email":
-      addLine('Opening mailto:<a href="mailto:aryavas2004@gmail.com">aryavas2004@gmail.com</a>...', "color2", animationSpeed[currentAnimationSpeed]);
+      addLine('Opening mailto:<a href="mailto:aryavas2004@gmail.com">mailto:aryavas2004@gmail.com</a>...', "color2", animationSpeed[currentAnimationSpeed]);
       newTab(email);
       break;
     case "clear":
