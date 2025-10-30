@@ -11,7 +11,7 @@ var resume = 'https://github.com/arya16z/Portfolio/blob/main/Aryavardhan_Singh_R
 // This content is about "WHOIS"
 whois = [
   "<br>",
-  "Aryavardhan Singh",
+  "<strong>Introduction</strong>",
   "<br><br>",
   "I’m Aryavardhan Singh, an AI/ML Engineer with a focus on Deep Learning and Natural Language Processing.",
   "<br><br>",
