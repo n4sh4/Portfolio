@@ -133,9 +133,9 @@ animationSpeed = {
 };
 
 // Skills matrix data
-skillsMatrix = [
+skills = [
   "<br>",
-  "<span class='command'>Security Skills Matrix:</span>",
+  "<span class='command'>Skills:</span>",
   "<br>",
   "Python                               ██████████████ 98%",
   "Java                                 █████████████  94%", 
@@ -180,7 +180,7 @@ help = [
   "<br>",
   '<span class="command">--- NEW FEATURES ---</span>',
   "<br>",
-  '<span class="command">skills-matrix</span>  Interactive skills visualization',
+  '<span class="command">skills</span>  Interactive skills visualization',
   '<span class="command">experience</span>     Professional journey timeline',
   '<span class="command">set-theme</span>      Change terminal theme',
   '<span class="command">set-animation</span>  Control typing speed',
