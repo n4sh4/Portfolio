@@ -134,8 +134,8 @@ function commander(cmd) {
       clearTerminal();
       break;
     // New features
-    case "skills-matrix":
-      loopLines(skillsMatrix, "color2 margin", animationSpeed[currentAnimationSpeed]);
+    case "skills":
+      loopLines(skills, "color2 margin", animationSpeed[currentAnimationSpeed]);
       break;
     case "experience":
       loopLines(experienceTimeline, "color2 margin", animationSpeed[currentAnimationSpeed]);
@@ -262,7 +262,7 @@ function handleTabCompletion() {
   var availableCommands = [
     'help', 'whois','video', 'sudo', 'youtube', 
     'social', 'projects', 'resume', 
-    'password', 'history', 'email', 'clear', 'skills-matrix', 'experience', 
+    'password', 'history', 'email', 'clear', 'skills', 'experience', 
     'themes', 'settings', 'set-theme', 'set-animation', 
     'twitter', 'linkedin', 'instagram', 'github'
   ];
