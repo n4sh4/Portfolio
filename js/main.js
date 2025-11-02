@@ -101,7 +101,7 @@ function commander(cmd) {
     case "sudo":
       addLine("Oh no, you're not the admin...", "color2", animationSpeed[currentAnimationSpeed]);
       setTimeout(function () {
-        window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+        window.open('https://www.youtube.com/watch?v=A0Kp0N92PaU');
       }, 1000);
       break;
     case "youtube":
