@@ -1,6 +1,6 @@
 // These are the variable for the direct links
 var youtube = "https://www.youtube.com/@gulambii";
-var twitter = "https://www.twitter.com/gulamb1";
+var twitter = "https://www.twitter.com/gulambii";
 var linkedin = "https://www.linkedin.com/in/aryavardhan-singh";
 var instagram = "https://www.instagram.com/r1zz3d";
 var github = "https://github.com/gulamb1";
@@ -46,8 +46,8 @@ whois = [
 
 social = [
   "<br>",
-  'youtube        <a href="' + youtube + '" target="_blank">youtube/@gulamb11' + "</a>",
-  'twitter        <a href="' + twitter + '" target="_blank">twitter/gulamb1' + '</a>',
+  'youtube        <a href="' + youtube + '" target="_blank">youtube/@gulambii' + "</a>",
+  'twitter        <a href="' + twitter + '" target="_blank">twitter/gulambii' + '</a>',
   'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/aryavardhan-singh' + "</a>",
   'instagram      <a href="' + instagram + '" target="_blank">instagram/r1zz3d' + '</a>',
   'github         <a href="' + github + '" target="_blank">github/gulamb1' + "</a>",
