@@ -107,7 +107,7 @@ function commander(cmd) {
     case "youtube":
       addLine("Sending you to the link...", "color2", animationSpeed[currentAnimationSpeed]);
       setTimeout(function () {
-        window.open('https://youtu.be/KtYby2QN0kQ?si=FN3fcEEVzT5gwGXv');
+        window.open('https://www.youtube.com/@aryasaxx');
       }, 2000);
       break;
     case "social":
